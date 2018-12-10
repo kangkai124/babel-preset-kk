@@ -1,6 +1,6 @@
 {
 	"name": "babel-preset-kk",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "babel preset used by kk",
 	"license": "MIT",
 	"repository": "kangkai124/babel-preset-kk",

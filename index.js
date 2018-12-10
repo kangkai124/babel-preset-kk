@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = () => ({
 	plugins: [
 		// Stage 0
 		require("@babel/plugin-proposal-function-bind"),
@@ -24,4 +24,4 @@ module.exports = {
 		[require("@babel/plugin-proposal-class-properties"), { loose: false }],
 		require("@babel/plugin-proposal-json-strings"),
 	],
-}
+})
